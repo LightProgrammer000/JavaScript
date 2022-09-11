@@ -32,7 +32,7 @@
 			document.write("<br> # Divisão: " + divisao );
 			document.write("<br> # Resto: " + modulo );
 			document.write("<br> # Pré-Incremento: " + ++n1 );
-			document.write("<br> # Pós-Decremento: " + --n2 );
+			document.write("<br> # Pré-Decremento: " + --n2 );
 			
         </script>        
 	</head>
